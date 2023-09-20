@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desktop_computer-Circuito">Circuito</a>
+  <a href="#desktop_computer-Simulador">Simulador</a>
 </p>
 
 <hr/>
@@ -31,6 +31,10 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 * [Tinkercad](https://www.tinkercad.com/)
 * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
-## :desktop_computer: Circuito
-![](https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuito.png)\
-Circuito feito no [Tinkercad](https://www.tinkercad.com/), acesse clicando [aqui](https://www.tinkercad.com/things/0QvzQkoBril?sharecode=bI2kh_6zxS2UHU0nt-Ae3tMG178cmadBf0KjoXNBrnE).
+## :desktop_computer: Simulador
+Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
+<br/><br/>
+<a href="https://www.tinkercad.com/things/0QvzQkoBril?sharecode=bI2kh_6zxS2UHU0nt-Ae3tMG178cmadBf0KjoXNBrnE" target="_blank">
+  <img src="https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuito.png" alt="circuit" />
+</a>
+<h6>Veja o circuito clicando na imagem.</h6>
