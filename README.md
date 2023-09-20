@@ -32,5 +32,5 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
 ## :desktop_computer: Circuito
-![](https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuito.PNG)\
+![](https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuito.png)\
 Circuito feito no [Tinkercad](https://www.tinkercad.com/).
