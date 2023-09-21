@@ -13,32 +13,35 @@ void setup() {
   pinMode(pinLEDYellow, OUTPUT);
   pinMode(pinLEDRed, OUTPUT);
   pinMode(pinBuzzer, OUTPUT);
+  
+  Serial.begin(9600);
 }
 
 void loop() {
   valueLDR = analogRead(pinLDR);
   
+  Serial.println(valueLDR);
+  
   digitalWrite(pinLEDGreen, LOW);
   digitalWrite(pinLEDYellow, LOW);
   digitalWrite(pinLEDRed, LOW);
   
-  if (valueLDR > 115) {
+  if (valueLDR < 900) {
     digitalWrite(pinLEDGreen, HIGH);
     
-    digitalWrite(pinBuzzer, LOW);
+    noTone(pinBuzzer);
   }
-  else if (valueLDR > 56) {
+  else if (valueLDR < 970) {
     digitalWrite(pinLEDYellow, HIGH);
     
+    noTone(pinBuzzer);
     delay(3000);
-    digitalWrite(pinBuzzer, HIGH);
-    
+    tone(pinBuzzer, 1500);
     delay(3000);
-    digitalWrite(pinBuzzer, LOW);
   }
   else {
     digitalWrite(pinLEDRed, HIGH);
     
-    digitalWrite(pinBuzzer, HIGH);
+    tone(pinBuzzer, 1500);
   }
 }
