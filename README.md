@@ -35,6 +35,6 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
 <br/><br/>
 <a href="https://www.tinkercad.com/things/0QvzQkoBril?sharecode=bI2kh_6zxS2UHU0nt-Ae3tMG178cmadBf0KjoXNBrnE" target="_blank">
-  <img src="https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuito.png" alt="circuit" />
+  <img src="https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuit.png" alt="circuit" />
 </a>
 <h6>Veja o circuito clicando na imagem.</h6>
