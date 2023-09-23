@@ -37,4 +37,4 @@ Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito par
 <a href="https://www.tinkercad.com/things/0QvzQkoBril?sharecode=bI2kh_6zxS2UHU0nt-Ae3tMG178cmadBf0KjoXNBrnE" target="_blank">
   <img src="https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuit.png" alt="circuit" />
 </a>
-<h6>Veja o circuito clicando na imagem.</h6>
+<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://drive.google.com/file/d/1qV-HP7MU9GaV-E1c4qCR--rxPeQ80pHL/view?usp=sharing">aqui.</a></h6>
