@@ -1,4 +1,4 @@
-<h1 align="center">Checkpoint 1 - 1º Semestre - 1º Ano - 1ESPR</h1>
+<h1 align="center">1º Semestre - Checkpoint 1 - 1ESPR</h1>
 
 <hr/>
 
@@ -35,6 +35,6 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
 <br/><br/>
 <a href="https://www.tinkercad.com/things/0QvzQkoBril?sharecode=bI2kh_6zxS2UHU0nt-Ae3tMG178cmadBf0KjoXNBrnE" target="_blank">
-  <img src="https://github.com/FIAP-553521-EDG/Ano1-Sem1-CP1/blob/main/circuit.png" alt="circuit" />
+  <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/Semestre1-Checkpoint1/blob/main/circuit.png" alt="circuit" />
 </a>
 <h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://drive.google.com/file/d/1qV-HP7MU9GaV-E1c4qCR--rxPeQ80pHL/view?usp=sharing">aqui.</a></h6>
